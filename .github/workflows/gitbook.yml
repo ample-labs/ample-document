@@ -1,4 +1,4 @@
-name: append-footer
+name: gitbook
 on:
   push:
     branches:
