@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [제품 소개](README.md)
 
 ## Guides
 
