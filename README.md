@@ -1,5 +1,5 @@
 ---
-description: 상품 설명입니다.
+description: 상품 설명입니다...
 ---
 
 # 제품 소개
