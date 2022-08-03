@@ -1,3 +1,7 @@
+---
+description: '1'
+---
+
 # What is MyProduct?
 
 {% hint style="info" %}
