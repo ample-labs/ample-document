@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Gitbook Action
-      uses: ample-labs/ample-document@v1.2.4
+      uses: ample-labs/ample-document@v1
       with:
         token: ${{ secrets.PERSONAL_TOKEN }}
         source_edit_time: true
