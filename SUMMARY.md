@@ -1,6 +1,6 @@
 # Table of contents
 
-* [제품 소개](README.md)
+* [Ample이란?](README.md)
 
 ## Guides
 
