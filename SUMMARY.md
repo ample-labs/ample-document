@@ -1,17 +1,22 @@
 # Table of contents
 
-* [Ample이란?](README.md)
+* [💊 소개](README.md)
+* [⁉ 지원 및 도움말](undefined-1.md)
 
-## Guides
+## GET STARTED
 
-* [Creating your first project](guides/creating-your-first-project.md)
+* [0⃣ 앰플 시작하기](get-started/undefined.md)
 
-## Fundamentals
+## PRODUCT
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
+* [1⃣ 교환하기 (Exchange)](product/exchange.md)
+* [2⃣ 유동성 풀 (Liquidity Pool)](product/liquidity-pool.md)
+* [3⃣ 이자농사 (Yield Farm)](product/yield-farm.md)
+* [4⃣ 스테이킹 (Staking)](product/staking.md)
+* [5⃣ 복권 (Lottery)](product/lottery.md)
+* [6⃣ 초기농장 제공](product/undefined.md)
 
-## Use Cases
+## DEVELOPERS
 
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
+* [Contract](developers/contract/README.md)
+  * [GitHub Integration](developers/contract/github-integration.md)
