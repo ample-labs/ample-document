@@ -11,10 +11,9 @@
 
 * [1⃣ 교환하기 (Exchange)](product/exchange.md)
 * [2⃣ 유동성 풀 (Liquidity Pool)](product/liquidity-pool.md)
-* [3⃣ 이자농사 (Yield Farm)](product/yield-farm.md)
-* [4⃣ 스테이킹 (Staking)](product/staking.md)
-* [5⃣ 복권 (Lottery)](product/lottery.md)
-* [6⃣ 초기농장 제공](product/undefined.md)
+* [3⃣ 스테이킹 (Staking)](product/staking.md)
+* [4⃣ 복권 (Lottery)](product/lottery.md)
+* [5⃣ 초기농장 제공](product/undefined.md)
 
 ## DEVELOPERS
 
