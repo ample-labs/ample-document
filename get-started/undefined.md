@@ -24,19 +24,15 @@ coverY: 0
 <mark style="color:blue;">Q.</mark> 앰플에서 사용하기 위해 전자 지갑 설정을 어떻게 해야 하나요?\
 <mark style="color:red;">A.</mark> 드롭다운 메뉴에서 설정을 선택합니다.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>메타마스크의 설정 메뉴</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 설정 페이지에서 네트워크(Networks) 메뉴로 이동합니다.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>네트워크 메뉴</p></figcaption></figure>
+또는 우 상단의 네트워크 추가(Add Network)를 클릭하고 수동으로 폴리곤 체인을 추가해야 합니다. 네트워크를 위해 입력해야 하는 매개 변수는 아래와 같습니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
-
-우 상단의 네트워크 추가(Add Network)를 클릭하고 수동으로 폴리곤 체인을 추가해야 합니다. 네트워크를 위해 입력해야 하는 매개 변수는 아래와 같습니다.&#x20;
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Network Name:** Polygon Mainnet\
 **New RPC URL:** [https://polygon-rpc.com/](https://polygon-rpc.com/)\
@@ -44,13 +40,13 @@ coverY: 0
 **Symbol:** MATIC\
 **Block Explorer URL:** [https://polygonscan.com](https://polygonscan.com)
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>다음과 같이 입력해주세요</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>폴리곤 체인 추가가 완료되었습니다!</p></figcaption></figure>
 
 ## :cat2: 앰플로 자금 이체하기
 
 내용+스샷
-
-
 
 
 
