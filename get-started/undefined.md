@@ -26,11 +26,11 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>메타마스크의 설정 메뉴</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>메타마스크의 설정 메뉴</p></figcaption></figure>
 
 설정 페이지에서 네트워크(Networks) 메뉴로 이동합니다.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>네트워크 메뉴</p></figcaption></figure>
 
