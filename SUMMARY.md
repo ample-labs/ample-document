@@ -1,7 +1,7 @@
 # Table of contents
 
 * [💊 소개](README.md)
-* [⁉ 지원 및 도움말](undefined-1.md)
+* [⁉ 용어소개](undefined-1.md)
 
 ## GET STARTED
 
@@ -9,7 +9,7 @@
 
 ## PRODUCT
 
-* [1⃣ 교환하기 (Exchange)](product/exchange.md)
+* [1⃣ 스왑 (Swap)](product/swap.md)
 * [2⃣ 유동성 풀 (Liquidity Pool)](product/liquidity-pool.md)
 * [3⃣ 스테이킹 (Staking)](product/staking.md)
 * [4⃣ 복권 (Lottery)](product/lottery.md)
