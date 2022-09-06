@@ -3,9 +3,9 @@ description: 쉽고 빠르게 앰플을 경험해볼 수 있도록 안내해드�
 coverY: 0
 ---
 
-# 5⃣ 복권 (Lottery)
+# 4⃣ 복권 (Lottery)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## :cat2: 복권 이용방법 요약&#x20;
 

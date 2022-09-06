@@ -5,7 +5,7 @@ coverY: 0
 
 # 2⃣ 유동성 풀 (Liquidity Pool)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## :cat2: 유동성 풀이란?
 

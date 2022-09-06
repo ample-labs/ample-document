@@ -5,7 +5,7 @@ coverY: 0
 
 # 💊 소개
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## :herb: 앰플이란?
 
@@ -32,7 +32,7 @@ coverY: 0
 > * 새로운 화폐 세계인 블록체인 세계에 뛰어들고 싶은 사람
 > * 평범한 방식보다 특별한 방식으로 버는 부가수익에 관심이 있는 사람
 
-## :herb: **앰플의 철학과 가치관**
+## :herb: **앰플의 철학과 가치관은 이렇습니다.**
 
 * 앰플은 블록체인의 본질을 탐구하고 찾기 위해 노력합니다.
 * 앰플은 세상에 도움이 되고 세상이 필요로 하기에 존재합니다.
