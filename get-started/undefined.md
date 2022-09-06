@@ -7,7 +7,7 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-## :cat2: 지갑 만들고 앰플에 연결하기
+## :point\_up: 지갑 만들고 앰플에 연결하기
 
 <mark style="color:blue;">Q.</mark> 전자지갑은 무엇인가요? \
 <mark style="color:red;">A.</mark> 우리가 주머니에 넣고 다니는 지갑이 아니라 온라인에서 저장할 수 있는 나만의 저장소입니다. 전자지갑은 다양한 종류가 있습니다. 앰플에서 지원하는 전자지갑은 메타마스크 등입니다.
@@ -44,7 +44,7 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>폴리곤 체인 추가가 완료되었습니다!</p></figcaption></figure>
 
-## :cat2: 앰플로 자금 이체하기
+## :point\_up: 앰플로 자금 이체하기
 
 내용+스샷
 
