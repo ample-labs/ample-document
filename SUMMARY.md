@@ -12,8 +12,6 @@
 * [1⃣ 스왑 (Swap)](product/swap.md)
 * [2⃣ 유동성 풀 (Liquidity Pool)](product/liquidity-pool.md)
 * [3⃣ 스테이킹 (Staking)](product/staking.md)
-* [4⃣ 복권 (Lottery)](product/lottery.md)
-* [5⃣ 초기농장 제공](product/undefined.md)
 
 ## DEVELOPERS
 
